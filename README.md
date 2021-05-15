@@ -2,8 +2,8 @@
 
 ## A MERN Stack Application
 
-![Home](https://imgur.com/NsMvpvH)
-![Add](https://imgur.com/3e79MMk)
+![Home](https://imgur.com/NsMvpvH.png)
+![Add](https://imgur.com/3e79MMk.png)
 
 ## Contributors
 
